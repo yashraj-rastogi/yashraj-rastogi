@@ -34,7 +34,7 @@ const DATA = {
     socials: {
       github: "https://github.com/yashraj-rastogi",
       linkedin: "https://in.linkedin.com/in/yashraj-rastogi",
-      website: "#"
+      website: "https://yashraj-rastogi.vercel.app/"
     }
   },
   education: [
@@ -80,9 +80,9 @@ const DATA = {
     {
       title: "Portfolio Website",
       type: "Personal Project",
-      description: "A digital showcase of my work, methodology, and technical journey.",
+      description: "A digital showcase of my work, methodology, and technical journey. You are currently viewing it!",
       tech: ["React", "UI/UX"],
-      link: "#"
+      link: "https://yashraj-rastogi.vercel.app/"
     }
   ],
   experience: [
