@@ -294,7 +294,7 @@ const Navbar = () => {
     <nav className={`fixed w-full z-50 transition-all duration-300 ${scrolled ? 'bg-[#050510]/90 backdrop-blur-lg border-b border-white/10 py-4' : 'bg-transparent py-6'}`}>
       <div className="container mx-auto px-6 flex justify-between items-center">
         <a 
-          href="https://drive.google.com/file/d/1aKkg4yXvQQA7H0Z2PDe1LL7mNWizwBPd/view?usp=sharing" 
+          href="https://drive.google.com/file/d/1Xxhisdt-oXTG-e2Gdy1v1MAbyghd-tSC/view?usp=sharing" 
           target="_blank" 
           rel="noopener noreferrer"
           className="px-6 py-2 rounded-full bg-cyan-500/10 border border-cyan-500/20 text-cyan-400 font-bold hover:bg-cyan-500/20 hover:scale-105 transition-all flex items-center gap-2"
