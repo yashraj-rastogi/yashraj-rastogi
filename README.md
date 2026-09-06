@@ -2,7 +2,7 @@
 
   <!-- Typing SVG Banner -->
   <a href="https://github.com/yashraj-rastogi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hey+there,+I'm+Yashraj+Rastogi+👋;Full-Stack+Developer;Building+Scalable+Web+Products;Turning+Ideas+Into+Clean+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hey+there%2C+I%27m+Yashraj+Rastogi+%F0%9F%91%8B;Full-Stack+Developer;Building+Scalable+Web+Products;Turning+Ideas+Into+Clean+Code" alt="Typing SVG" />
   </a>
 
   <p><strong>Full-Stack Developer • Problem Solver • Tech Explorer</strong></p>
@@ -89,7 +89,7 @@
 <div align="center">
 
   <a href="https://github.com/yashraj-rastogi">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=yashraj-rastogi&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" />
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashraj-rastogi&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" />
   </a>
   <a href="https://github.com/yashraj-rastogi">
     <img height="165" src="https://streak-stats.demolab.com?user=yashraj-rastogi&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
@@ -98,13 +98,13 @@
   <br/><br/>
 
   <a href="https://github.com/yashraj-rastogi">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraj-rastogi&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" />
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashraj-rastogi&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" />
   </a>
 
   <br/><br/>
 
   <a href="https://github.com/yashraj-rastogi">
-    <img src="https://github-profile-trophy.vercel.app/?username=yashraj-rastogi&theme=tokyonight&no-frame=true&column=6&margin-w=4" />
+    <img src="https://github-profile-trophy-mu.vercel.app/?username=yashraj-rastogi&theme=tokyonight&no-frame=true&column=6&margin-w=4" />
   </a>
 
 </div>
